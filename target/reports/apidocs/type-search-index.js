@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"com.hotdogshop","l":"App"},{"p":"com.hotdogshop","l":"Berlin"},{"p":"com.hotdogshop","l":"HotDog"},{"p":"com.hotdogshop","l":"HunterDog"},{"p":"com.hotdogshop","l":"MasterDog"},{"p":"com.hotdogshop","l":"Order"},{"p":"com.hotdogshop","l":"ShopManager"}];updateSearchResults();

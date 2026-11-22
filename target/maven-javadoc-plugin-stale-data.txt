@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/library-project1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/library-project1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HotDog Shop Project 1.0.0 API'
+-notimestamp
+-use
+-version
+-windowtitle
+'HotDog Shop Project 1.0.0 API'
+com.hotdogshop
+C:\library-project1\src\main\java = 1794167166224
+C:\library-project1\target\reports\apidocs\allclasses-index.html = 1794172022269
+C:\library-project1\target\reports\apidocs\allpackages-index.html = 1794172022280
+C:\library-project1\target\reports\apidocs\element-list = 1794172022084
+C:\library-project1\target\reports\apidocs\help-doc.html = 1794172022360
+C:\library-project1\target\reports\apidocs\index-all.html = 1794172022329
+C:\library-project1\target\reports\apidocs\index.html = 1794172022349
+C:\library-project1\target\reports\apidocs\member-search-index.js = 1794172022294
+C:\library-project1\target\reports\apidocs\module-search-index.js = 1794172022284
+C:\library-project1\target\reports\apidocs\overview-tree.html = 1794172022234
+C:\library-project1\target\reports\apidocs\package-search-index.js = 1794172022287
+C:\library-project1\target\reports\apidocs\search.html = 1794172022341
+C:\library-project1\target\reports\apidocs\tag-search-index.js = 1794172022297
+C:\library-project1\target\reports\apidocs\type-search-index.js = 1794172022290
